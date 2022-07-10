@@ -1,3 +1,2 @@
-# GithubAPI
-Github API manager writted in java.
-The idea is being able to update and create repository and proyects from Apache NetBeans IDE as a plugin.
+# Análisis de sentimientos en twitter y su efecto en el mercado de valores.
+Proyecto para la asignatura de minería de datos donde se intenta encontrar similitudes entre los sentimientos encontrados en twitter en las 5 mayores empresas del SPX.
